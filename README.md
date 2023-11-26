@@ -1,8 +1,8 @@
 # Data Scientist and Machine Learning Enthusiast
 
-Hi! I'm Simon and I'm currently working as a Data Scientist. In my work I am closely following the newest LLM news to leverage the newest achievements in real life products.
+Hi! I'm Simon and I'm currently working as a Data Scientist. In my work I am closely following the newest LLM research to leverage the these achievements in real life products.
 
-Appart from my work I am interested in Large Language Models, Python and Physics. 
+Appart from my work I am interested in Computer Vision, Python and Physics. 
 
 Happy to collaborate in exciting ML Projects.
 
